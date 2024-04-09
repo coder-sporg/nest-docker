@@ -1,0 +1,36 @@
+# 版本控制系统
+.git/
+.gitignore
+
+# node 依赖
+node_modules/
+npm-debug.log
+
+# 构建目录
+dist/
+
+# IDE
+.vscode/
+
+# 操作系统生成的文件
+.DS_Store
+
+# 日志文件
+*.log
+logs/
+
+# 环境变量
+.env
+.env.*
+
+# 配置文件
+Dockerfile
+.dockerignore
+
+# 其他
+.eslintignore
+.eslintrc
+.prettierrc
+.prettierignore
+*.md
+*.txt
